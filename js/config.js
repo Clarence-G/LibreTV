@@ -204,4 +204,4 @@ const CUSTOM_API_CONFIG = {
 };
 
 // 新增隐藏内置黄色采集站API的变量，默认为true
-var HIDE_BUILTIN_ADULT_APIS = false;
+var HIDE_BUILTIN_ADULT_APIS = true;
